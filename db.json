@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "carlos",
+      "id": 1
+    },
+    {
+      "username": "carlo",
+      "id": 2
+    },
+    {
+      "username": "12345",
+      "id": 3
+    },
+    {
+      "username": "tuno",
+      "id": 4
+    }
+  ],
+  "names": [
+    {
+      "name": "Cdwdw",
+      "phone": "04242041951",
+      "user": "12345",
+      "id": 1
+    },
+    {
+      "name": "Carlos",
+      "phone": "04242041951",
+      "user": "carlos",
+      "id": 2
+    }
+  ]
+}
